@@ -35,13 +35,6 @@
 
 **Excluded:** [Items outside this review and the reason for excluding them.]
 
-### Security objectives
-
-[Describe the security outcomes the system must maintain. Make them specific to this application.]
-
-- [Who may access which data?]
-- [Who may perform which actions?]
-- [What information or behavior must remain accurate and available?]
 
 ## 2. Data Flow Diagrams
 
